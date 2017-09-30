@@ -24,4 +24,3 @@ function preserveDecimal(a){
   return parseFloat(a, 10)
 }
 preserveDecimal('friction')
-
